@@ -5,7 +5,8 @@ from real-life.task import code
 from real-life.task import eat
 
 class People:
-    def __init__(self, name, telegram, age, skills, friends):
+    def __init__(self, name, telegram,
+                 age, skills, friends):
         self.name = name
         self.age = age
         self.skills = skills
