@@ -1,4 +1,4 @@
-```
+```python
 
 from real-life.task import sleep
 from real-life.task import code
