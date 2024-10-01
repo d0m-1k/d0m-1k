@@ -1,8 +1,8 @@
 ```python
 
-from real-life.task import sleep
-from real-life.task import code
-from real-life.task import eat
+from reallife.task import sleep
+from reallife.task import code
+from reallife.task import eat
 
 class People:
     def __init__(self, name, telegram,
