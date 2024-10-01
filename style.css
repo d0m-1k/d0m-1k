@@ -1,0 +1,48 @@
+body {
+  color: #ffffff;
+  height: 100%;
+  width: 90%;
+  margin: 7px;
+  padding: 10px;
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  text-transform: capitalize;
+  background-image: url("/images/bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+img {
+  width: 100%;
+  border: 1px #555555 solid;
+  border-radius: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 2px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+header.header {
+  background: #00000066;
+  margin: 7px;
+  padding: 10px;
+  border: #ffffff66 1px solid;
+  border-radius: 7px;
+}
+
+div.div {
+  background: #00000066;
+  margin: 7px;
+  padding: 10px;
+  border: #ffffff66 1px solid;
+  border-radius: 7px;
+}
+
+a, a:active {
+  all: unset;
+  color: #5555ff;
+}
