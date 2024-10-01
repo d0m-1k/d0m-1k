@@ -9,7 +9,7 @@ body {
   font-weight: <weight>;
   font-style: normal;
   text-transform: capitalize;
-  background-image: url("/d0m-1k/bg.png");
+  background-image: url("https://github.com/d0m-1k/d0m-1k/raw/refs/heads/main/bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }
