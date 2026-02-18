@@ -16,6 +16,9 @@ Python & Java разработчик с глубоким пониманием Li
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-0099DD?style=flat&logo=code&logoColor=white)
 
 **Linux & DevOps**
 
@@ -38,8 +41,8 @@ Python & Java разработчик с глубоким пониманием Li
 
 ## 📫 Контакты
 
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dom_4k)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dom4k)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dom_4k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dom4k)
 
 ## 🔍 Что меня вдохновляет
 - Реверс-инжиниринг протоколов через raw-соединения
