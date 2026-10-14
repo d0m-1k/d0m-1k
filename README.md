@@ -42,7 +42,7 @@ C & Java разработчик с глубоким пониманием Linux-�
 ## 📫 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dom_4k)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dom4k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/d0m-1k)
 
 ## 🔍 Что меня вдохновляет
 - Реверс-инжиниринг протоколов через raw-соединения
